@@ -33,5 +33,5 @@ pip install -r requirements.txt
 Add FQDNs to the `fqdn_list.yml` file and then run the script.
 
 ```bash
-python certchecker.yml
+python certchecker.py
 ```
